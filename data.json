@@ -1,30 +1,70 @@
 {
-    "1": {
-        "name": "Crawl Ben",
-        "difficulty": 1,
-        "tag": ["crawl", "ben", "teknik"],
-        "description": "svømmer crawl ben",
-        "equipment": ["plade"]
-    },
-    "2": {
-        "name": "Crawl vejrtrækning",
-        "difficulty": 2,
-        "tag": ["crawl", "vejrtrækning", "teknik", "aerob"],
-        "description": "svømmer crawl og trækker vejret",
-        "equipment": [""]
-    },
-    "3": {
-        "name": "rygcrawl Ben",
-        "difficulty": 1,
-        "tag": ["rygcrawl", "ben", "teknik"],
-        "description": "svømmer crawl ben",
-        "equipment": ["plade", "bold"]
-    },
-    "4": {
-        "name": "rygcrawl rotation",
-        "difficulty": 2,
-        "tag": ["rygcrawl", "rotation", "teknik"],
-        "description": "svømmer rygcrawl og rotere",
-        "equipment": [""]
-    }
+ "1": {
+  "name": "Crawl Ben",
+  "difficulty": 1,
+  "tag": [
+   "crawl",
+   "ben",
+   "teknik"
+  ],
+  "description": "sv\u00f8mmer crawl ben",
+  "equipment": [
+   "plade"
+  ]
+ },
+ "2": {
+  "name": "Crawl vejrtr\u00e6kning",
+  "difficulty": 2,
+  "tag": [
+   "crawl",
+   "vejrtr\u00e6kning",
+   "teknik",
+   "aerob"
+  ],
+  "description": "sv\u00f8mmer crawl og tr\u00e6kker vejret",
+  "equipment": [
+   ""
+  ]
+ },
+ "3": {
+  "name": "rygcrawl Ben",
+  "difficulty": 1,
+  "tag": [
+   "rygcrawl",
+   "ben",
+   "teknik"
+  ],
+  "description": "sv\u00f8mmer crawl ben",
+  "equipment": [
+   "plade",
+   "bold"
+  ]
+ },
+ "4": {
+  "name": "rygcrawl rotation",
+  "difficulty": 2,
+  "tag": [
+   "rygcrawl",
+   "rotation",
+   "teknik"
+  ],
+  "description": "sv\u00f8mmer rygcrawl og rotere",
+  "equipment": [
+   ""
+  ]
+ },
+ "5": {
+  "name": "8-tal",
+  "difficulty": 4,
+  "tag": "vejrtr\u00e6kning, streamline",
+  "description": "sv\u00f8mmeren sv\u00f8mmer 25-50 meter hvor f\u00f8rste 12,5 meter er under vandet og sidste 12,5 meter er over vandet.",
+  "equipment": "finner"
+ },
+ "6": {
+  "name": "butterfly ben",
+  "difficulty": 1,
+  "tag": "ben, butterfly, teknik",
+  "description": "sv\u00f8mmeren tager en bold eller plade og sv\u00f8mmer fly ben p\u00e5 ryggen med bolden eller p\u00e5 maven med pladen",
+  "equipment": "finner, bold, plade"
+ }
 }
